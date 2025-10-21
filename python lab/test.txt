@@ -1,3 +1,0 @@
-hello world
-ist easy
-lets learn python
